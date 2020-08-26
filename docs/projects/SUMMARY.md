@@ -6,4 +6,4 @@
   * [Smiley Buttons](/tutorials/smiley-buttons)
   * [Dice](/tutorials/dice)
   * [Love Meter](/tutorials/love-meter)
-  * [Micro Chat - Test](/tutorials/hey-microbit)
+  * [Micro Chat](/tutorials/micro-chat)
