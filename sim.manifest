@@ -1,0 +1,10 @@
+CACHE MANIFEST
+
+CACHE:
+/turorials/bluebird.min.js
+/turorials/pxtsim.js
+/turorials/sim.js
+/turorials/sim.css
+
+NETWORK:
+*

@@ -1,0 +1,69 @@
+CACHE MANIFEST
+
+CACHE:
+/turorials/semantic.js
+/turorials/main.js
+/turorials/pxtapp.js
+/turorials/typescript.js
+/turorials/marked/marked.min.js
+/turorials/highlight.js/highlight.pack.js
+/turorials/jquery.js
+/turorials/pxtlib.js
+/turorials/pxtcompiler.js
+/turorials/pxtpy.js
+/turorials/pxtblockly.js
+/turorials/pxtwinrt.js
+/turorials/pxteditor.js
+/turorials/pxtsim.js
+/turorials/pxtembed.js
+/turorials/pxtworker.js
+/turorials/pxtweb.js
+/turorials/blockly.css
+/turorials/semantic.css
+/turorials/rtlsemantic.css
+
+
+
+
+
+# blockly
+/turorials/blockly/media/sprites.png
+/turorials/blockly/media/click.mp3
+/turorials/blockly/media/disconnect.wav
+/turorials/blockly/media/delete.mp3
+
+# monaco; keep in sync with webapp/public/index.html
+/turorials/vs/loader.js
+/turorials/vs/base/worker/workerMain.js
+/turorials/vs/basic-languages/bat/bat.js
+/turorials/vs/basic-languages/cpp/cpp.js
+/turorials/vs/basic-languages/python/python.js
+/turorials/vs/basic-languages/markdown/markdown.js
+/turorials/vs/editor/editor.main.css
+/turorials/vs/editor/editor.main.js
+/turorials/vs/editor/editor.main.nls.js
+/turorials/vs/language/json/jsonMode.js
+/turorials/vs/language/json/jsonWorker.js
+
+# charts
+/turorials/smoothie/smoothie_compressed.js
+/turorials/images/Bars_black.gif
+
+# gifjs
+/turorials/gifjs/gif.js
+
+# ai
+/turorials/ai.0.js
+
+/turorials/worker.js
+/turorials/monacoworker.js
+
+# ver Wed Aug 26 2020 09:49:31 GMT-0600 (Mountain Daylight Time)
+
+# target
+/turorials/docs/static/hero.png
+
+/turorials/target.js
+
+NETWORK:
+*
