@@ -45,6 +45,13 @@ Here are some fun programs for your board!
   "url": "/tutorials/micro-chat",
   "imageUrl": "https://pxt.azureedge.net/blob/d8cf0f404e04aa67a9f8ed773b2386aa202776de/static/mb/projects/a9-radio.png",
   "cardType": "example"
+},
+{
+  "name": "Micro Chat - Test",
+  "description": "Build your own social network made of micro:bits.",
+  "url": "/tutorials/hey-microbit",
+  "imageUrl": "https://pxt.azureedge.net/blob/d8cf0f404e04aa67a9f8ed773b2386aa202776de/static/mb/projects/a9-radio.png",
+  "cardType": "tutorial"
 }]
 ```
 

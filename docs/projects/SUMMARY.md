@@ -7,3 +7,4 @@
   * [Dice](/tutorials/dice)
   * [Love Meter](/tutorials/love-meter)
   * [Micro Chat](/tutorials/micro-chat)
+  * [Micro Chat - Test](/tutorials/hey-microbit)
