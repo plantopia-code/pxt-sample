@@ -1,7 +1,7 @@
 {
     "id": "sample",
     "name": "sample",
-    "title": "MakeCode Editor Sample",
+    "title": "Plantopia Code Editor",
     "corepkg": "core",
     "cloud": {
         "workspace": false,
